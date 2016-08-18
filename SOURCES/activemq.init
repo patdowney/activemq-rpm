@@ -21,7 +21,6 @@
 APP_NAME="activemq"
 APP_LONG_NAME="ActiveMQ Broker"
 ACTIVEMQ_HOME="/usr/share/activemq"
-ACTIVEMQ_ADMIN="/usr/bin/activemq-admin"
 
 # Wrapper
 WRAPPER_CMD="/usr/sbin/tanukiwrapper"
