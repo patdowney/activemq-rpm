@@ -1,11 +1,11 @@
 Summary: Apache ActiveMQ
 Name: activemq
-Version: 5.10.0
+Version: 5.13.4
 Release: 2%{?dist}
 License: ASL 2.0
 Group: System Environment/Daemons
 URL: http://activemq.apache.org/
-Source0: http://www.apache.org/dist//activemq/apache-activemq/%{version}/apache-activemq-%{version}-bin.tar.gz
+SOURCE0: https://www.apache.org/dist/activemq/%{version}/apache-activemq-%{version}-bin.tar.gz
 Source1: activemq.init
 Source2: activemq.xml
 Source3: activemq-wrapper.conf
